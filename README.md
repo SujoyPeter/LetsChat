@@ -1,3 +1,18 @@
+#Hosting link
+https://letschatsujoy.netlify.app/chat
+
+#Discription
+
+"Let's Chat" is a dynamic and user-friendly React application that aims to provide a seamless chatting experience for its users. The app leverages the power of Redux for state management and Bootstrap for responsive and visually appealing UI design.
+
+With Let's Chat, users can create accounts, log in, and connect with friends or colleagues in real-time conversations. The Redux library is utilized to efficiently manage the application's state, ensuring smooth data flow between components. Redux enables centralized and predictable state updates, making it easier to implement features such as message storage, user authentication, and chat room management.
+
+The app's user interface is built using Bootstrap, a popular CSS framework. Bootstrap ensures a responsive and mobile-first design, allowing Let's Chat to adapt seamlessly across various devices and screen sizes. The framework provides a rich set of pre-built components, grid system, and styling options, making it effortless to create an intuitive and visually appealing chat interface.
+
+Let's Chat not only focuses on real-time messaging but also incorporates additional features like user profiles, message notifications, and group chats. The combination of React, Redux, and Bootstrap empowers the app with a robust architecture, smooth user interactions, and a polished visual appearance.
+
+Overall, Let's Chat is a feature-rich React application that harnesses the power of Redux for state management and utilizes Bootstrap for creating an engaging and responsive user interface.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
