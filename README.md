@@ -1,5 +1,5 @@
 #Hosting link
-https://letschatsujoy.netlify.app/chat
+https://letschatsujoy.netlify.app/
 
 #Discription
 
