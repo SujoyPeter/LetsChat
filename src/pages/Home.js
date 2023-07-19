@@ -10,7 +10,7 @@ export default function Home() {
       {/**top navbar */}
       <NavbarComp />
       <div className="text-center">
-        <h1 className=" text-muted mt-5 ">Welcome to ChatBox</h1>
+        <h1 className=" text-muted mt-5 ">Welcome to Lets Chat</h1>
 
         <button
           type="button"
